@@ -1,0 +1,13 @@
+body {
+    background-color: #d24d57
+}
+
+#button {
+    font-family: "brandon-grotesque";
+    display: block;
+    text-align: center;
+    border: 2px solid transparent;
+    padding: 15px 32px;
+    text-decoration-line: none;
+
+}
